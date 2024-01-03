@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;  /* Ajuste para exibir os elementos em coluna */
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  canvas {
+    border: 1px solid #ccc;
+  }
+  
